@@ -64,6 +64,13 @@
 			<artifactId>json-schema-validator</artifactId>
 			<version>5.5.5</version>
 		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.aventstack/chaintest-testng -->
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>chaintest-testng</artifactId>
+			<version>1.0.12</version>
+		</dependency>
 	</dependencies>
 
 	<build>

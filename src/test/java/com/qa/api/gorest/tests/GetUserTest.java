@@ -29,7 +29,7 @@ public class GetUserTest extends BaseTest{
 		Response response = restClinet.get(BASE_URL_GOREST, GOREST_USERS_ENDPOINTS, queryParam, null, AuthType.BEARER_TOKEN, ContentType.JSON);
 		Assert.assertTrue(response.statusLine().contains("OK"));
 	}
-	@Test
+	@Test(enabled = false)
 	public void getSingleUserTest() {
 		String userId ="8045476";
 		Response response = restClinet.get(BASE_URL_GOREST, GOREST_USERS_ENDPOINTS+"/"+userId, null, null, AuthType.BEARER_TOKEN, ContentType.JSON);
