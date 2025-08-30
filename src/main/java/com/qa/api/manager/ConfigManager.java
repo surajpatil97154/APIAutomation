@@ -21,7 +21,7 @@ public class ConfigManager {
 	}
 	
 	public static String get(String key) {
-		return prop.getProperty(key);
+		return prop.getProperty(key).trim();
 	}
 	
 	public static void set(String key , String value) {

@@ -71,6 +71,28 @@
 			<artifactId>chaintest-testng</artifactId>
 			<version>1.0.12</version>
 		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
+		<dependency>
+			<groupId>io.qameta.allure</groupId>
+			<artifactId>allure-testng</artifactId>
+			<version>2.29.1</version>
+		</dependency>
+
+		<!--
+		https://mvnrepository.com/artifact/io.qameta.allure/allure-rest-assured -->
+		<dependency>
+			<groupId>io.qameta.allure</groupId>
+			<artifactId>allure-rest-assured</artifactId>
+			<version>2.29.1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>5.4.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -94,7 +116,9 @@
 					<forkCount>3</forkCount>
 					<reuseForks>true</reuseForks>
 					<suiteXmlFiles>
-						<suiteXmlFile>{suiteXmlFile}</suiteXmlFile>
+						<suiteXmlFile>
+							src/test/resources/testRunners/testng_regression.xml</suiteXmlFile>
+						<!--<suiteXmlFile>{suiteXmlFile}</suiteXmlFile>-->
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>

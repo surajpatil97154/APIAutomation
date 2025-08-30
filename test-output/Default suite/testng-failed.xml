@@ -6,6 +6,7 @@
       <class name="com.qa.api.gorest.tests.CreateUserTest">
         <methods>
           <include name="createUserTest"/>
+          <include name="setupAllureReport"/>
           <include name="setup"/>
         </methods>
       </class> <!-- com.qa.api.gorest.tests.CreateUserTest -->
