@@ -1,0 +1,15 @@
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\api\qa\amadues\test\AmaduesAPITest.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\base\BaseTest.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\basic_auth\tests\BasicAuthTest.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\contact\tests\CreateContact.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\contact\tests\GetAllConatcts.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\gorest\tests\CreateUserTest.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\gorest\tests\DeleteUserTest.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\gorest\tests\GetUserTest.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\gorest\tests\getUserWithDeseralizationTest.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\gorest\tests\GoRestAPIWithXMLTest.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\gorest\tests\UpdateUserTest.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\products\tests\GetAllProducts.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\products\tests\ProductAPITestWithJsonPath.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\reqres\tests\ReqresTest.java
+C:\Learnings_2025\EclipseWorkspace\RestAssuredFramework\src\test\java\com\qa\api\schema\tests\ProductAPISchemaTest.java

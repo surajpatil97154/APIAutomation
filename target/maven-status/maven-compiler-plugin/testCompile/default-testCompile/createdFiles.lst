@@ -1,0 +1,3 @@
+com\qa\api\base\BaseTest.class
+com\api\qa\amadues\test\AmaduesAPITest.class
+com\qa\api\basic_auth\tests\BasicAuthTest.class
