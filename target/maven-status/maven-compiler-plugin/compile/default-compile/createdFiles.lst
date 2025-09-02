@@ -1,3 +1,4 @@
+com\qa\api\pojo\Contact$ContactBuilder.class
 com\qa\api\utils\CsvReader.class
 com\qa\api\utils\JSONSchemaValidator.class
 com\qa\api\pojo\User.class
@@ -13,8 +14,11 @@ com\qa\api\utils\JsonPathValidatorUtil.class
 com\qa\api\utils\StringUtil.class
 com\qa\api\manager\ConfigManager.class
 com\qa\api\pojo\Product.class
+com\qa\api\pojo\Product$ProductBuilder.class
+com\qa\api\pojo\Product$Rating$RatingBuilder.class
 com\qa\api\constants\StatusCode.class
 com\qa\api\pojo\Product$Rating.class
+com\qa\api\pojo\ContactsCredentials$ContactsCredentialsBuilder.class
 com\qa\api\constants\AuthType.class
 com\qa\api\utils\XMLPathUtil.class
 com\qa\api\pojo\ContactsCredentials.class

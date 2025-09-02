@@ -1,3 +1,15 @@
-com\qa\api\base\BaseTest.class
+com\qa\api\gorest\tests\DeleteUserTest.class
+com\qa\api\reqres\tests\ReqresTest.class
+com\qa\api\schema\tests\ProductAPISchemaTest.class
+com\qa\api\contact\tests\GetAllConatcts.class
 com\api\qa\amadues\test\AmaduesAPITest.class
 com\qa\api\basic_auth\tests\BasicAuthTest.class
+com\qa\api\products\tests\ProductAPITestWithJsonPath.class
+com\qa\api\gorest\tests\UpdateUserTest.class
+com\qa\api\gorest\tests\CreateUserTest.class
+com\qa\api\base\BaseTest.class
+com\qa\api\contact\tests\CreateContact.class
+com\qa\api\gorest\tests\GoRestAPIWithXMLTest.class
+com\qa\api\gorest\tests\getUserWithDeseralizationTest.class
+com\qa\api\products\tests\GetAllProducts.class
+com\qa\api\gorest\tests\GetUserTest.class
